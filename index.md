@@ -15,10 +15,3 @@ description: This is a minimal example of using the bookdown package to write a 
 
 # Preamble
 
-
-```{r include = FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
