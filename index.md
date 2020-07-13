@@ -5,7 +5,7 @@ author:
   name: "Drew Ddembe"
   affiliation: "Facebook"
   email: "drew.ddembe@facebook.com"
-date: "Date"
+date: ""
 output: pdf_document
 documentclass: book
 site: bookdown::bookdown_site
