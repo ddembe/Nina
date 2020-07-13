@@ -5,7 +5,7 @@ author:
   name: "Drew Ddembe"
   affiliation: "Facebook"
   email: "drew.ddembe@facebook.com"
-date: "`r Sys.Date()`"
+date: "Date"
 output: pdf_document
 documentclass: book
 site: bookdown::bookdown_site
