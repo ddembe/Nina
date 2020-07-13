@@ -1,0 +1,24 @@
+---
+title: "Letters To Nina"
+subtitle: "subtitle"
+author:
+  name: "Drew Ddembe"
+  affiliation: "Facebook"
+  email: "drew.ddembe@facebook.com"
+date: "Date"
+output: pdf_document
+documentclass: book
+site: bookdown::bookdown_site
+cover-image: cover.JPG # relative to index
+description: This is a minimal example of using the bookdown package to write a book.
+---
+
+# Preamble
+
+
+```{r include = FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
